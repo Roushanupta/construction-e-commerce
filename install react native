@@ -1,0 +1,3 @@
+npx react-native init ConstructionApp
+cd ConstructionApp
+npx react-native run-android
